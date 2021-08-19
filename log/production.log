@@ -1,0 +1,6 @@
+
+
+Processing PagesController#home (for 127.0.0.1 at 2021-06-23 10:51:33) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 90ms (View: 84, DB: 0) | 200 OK [http://localhost/]
